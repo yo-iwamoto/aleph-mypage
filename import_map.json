@@ -9,6 +9,7 @@
     "react-dom": "https://esm.sh/react-dom@17.0.2",
     "react-icons/": "https://esm.sh/react-icons@4.2.0/",
     "classnames": "https://esm.sh/classnames@2.3.1",
-    "@notionhq/client": "https://esm.sh/@notionhq/client@0.2.2"
+    "@notionhq/client": "https://esm.sh/@notionhq/client@0.2.2",
+    "dotenv": "https://esm.sh/dotenv@10.0.0"
   }
 }
