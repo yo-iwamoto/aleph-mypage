@@ -10,3 +10,5 @@ const Page: React.VFC = () => {
     <Heading>{envValue}</Heading>
   );
 };
+
+export default Page;
