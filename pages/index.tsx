@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaTwitter } from "react-icons/fa.js";
 import { Heading } from "@/components/Heading.tsx";
 import { SlideIn } from "@/components/SlideIn.tsx";
 
